@@ -1,7 +1,7 @@
 # Academic Resources
 
 ## Preskilet Video
-[Watch the video](Preskilet_Video.pdf)
+[Watch the video]https://github.com/sujal1726/EDS/blob/main/Preskillet%20link
 
 ## CISCO Certificate
 [View Certificate]https://github.com/sujal1726/EDS/blob/main/cisco%20certificate%20(2).pdf
