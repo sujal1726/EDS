@@ -7,4 +7,4 @@
 [View Certificate]https://github.com/sujal1726/EDS/blob/main/cisco%20certificate%20(2).pdf
 
 ## EDS Laboratory Assignments
-[Download EDS Lab Assignments](EDS_Activity.pdf)
+[Download EDS Lab Assignments]https://github.com/sujal1726/EDS/blob/main/eds%20sujal.pdf
